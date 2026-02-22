@@ -3,8 +3,7 @@ import type { Metadata } from 'next';
 import { Inter, Silkscreen } from 'next/font/google';
 
 import './globals.css';
-import NavBar from '@/components/layout/NavBar';
-import Footer from '@/components/layout/Footer';
+
 
 const inter = Inter({
   subsets: ['latin'],
