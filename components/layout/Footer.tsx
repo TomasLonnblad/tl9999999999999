@@ -19,7 +19,7 @@ const Footer = () => {
                 height={25}
               />
               <span className="text-code text-base text-silverchalice">
-                {socialLink.id}
+              
               </span>
             </Link>
           </li>
